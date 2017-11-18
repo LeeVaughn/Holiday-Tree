@@ -1,2 +1,2 @@
 # Holiday-Tree
-My version of a Holiday Tree for a CodeNewbie Project.
+This is a holiday tree that I created using HTML and CSS for this CodeNewbie project: http://holiday-trees.herokuapp.com/index.html
